@@ -24,7 +24,7 @@
         - `git checkout main`: go back to main
         - `git switch main`: go back to main
 
-# Working with remotes
+## Working with remotes
 
 - `git remote add <NAME> <URL>`: adds the <URL> as a remote with the name <NAME>
     - <NAME> is by convention called `origin`
